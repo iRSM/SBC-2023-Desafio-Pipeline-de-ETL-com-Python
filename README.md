@@ -21,10 +21,10 @@ Para tratar e coletar as informações da planilha.
 **3º**
 Na etapa "Transform", foi utilizado a API do OpenAI GPT-3.5-turbo para criar mensagens personalizadas para os 5 usuários.
 
-    **OBS**: Nesta estapa me deparei com um problema de creditos, devido a conta tipo free da OpenAI. Portanto a Mensagem foi atribuida para apenas 3 usuários.
+    **OBS**: Nesta etapa me deparei com um problema de crédito, devido a conta tipo free da OpenAI. Portanto a Mensagem foi atribuída para apenas 3 usuários.
 
 **4º**
-Na estapa "Load", foi atualizado a lista de "news" de cada usuário na API com a nova mensagem gerada.
+Na etapa "Load", foi atualizado a lista de "news" de cada usuário na API com a nova mensagem gerada.
 
 
 ## 🔗 Links
